@@ -12,3 +12,4 @@ Une application par dossier :
 | Application | Politique de confidentialité |
 | --- | --- |
 | Techniques (Shorinji Kempo) | https://jccazeaux.github.io/apps/techniques/confidentialite/ |
+| Croconote | https://jccazeaux.github.io/apps/croconote/confidentialite/ |
